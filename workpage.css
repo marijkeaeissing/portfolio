@@ -1,0 +1,363 @@
+body {
+    padding: 0;
+    margin: 0;
+  background color: #0000D6
+      z-index:0; 
+}
+
+
+/* unvisited link */
+a:link {
+    color: #FF009D;
+    font-family:'Courier Prime', monospace;
+    font-size: 60pt;
+       
+        
+}
+
+/* visited link */
+a:visited {
+  color: #FF009D;
+}
+
+p { 
+ text-align: center;
+    Font-family:'Courier Prime', monospace;
+    font-size: 14pt;
+  line-height: 18pt;
+    color:#FF009D;
+        
+}
+
+.chloe {
+  position: absolute;
+  right: 20px;
+     width: 400px;
+ padding: 40px;
+    top:200px;
+    
+}
+
+.marijke {
+    position: absolute;
+  left: 20px;
+    top:200px;
+  width: 400px;
+ padding: 40px;
+    
+}
+
+.quote{
+    position: absolute;
+  right: 20px;
+     width: 400px;
+ padding: 40px;
+    top:200px;
+    
+}
+
+.achterkant{
+     position: absolute;
+  right: 40px;
+     width: 550px;
+ padding: 40px;
+    top:200px;
+
+}
+
+.voorkant{
+    position: absolute;
+  left: 20px;
+    top:200px;
+  width: 400px;
+ padding: 40px;
+    
+    
+}
+
+.mysteriecover{
+    position: absolute;
+  right: 20px;
+     width: 440px;
+ padding: 40px;
+    top:200px;
+    
+}
+
+.mysterieposter {
+    position: absolute;
+  left: 20px;
+    top:200px;
+  width: 400px;
+ padding: 40px;
+    
+}
+
+.mysterie2{
+    position: absolute;
+  right: 20px;
+     width: 550px;
+ padding: 40px;
+    top:880px;
+    
+}
+
+.mysterie1{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:880px;
+    
+}
+
+.mysterie3{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:1350px;
+    
+}
+.mysteriebcover{
+    position: absolute;
+  right: 20px;
+     width: 440px;
+ padding: 40px;
+    top:1350px;
+    
+}
+
+.codes4{
+    position: absolute;
+  right: 20px;
+     width: 550px;
+ padding: 40px;
+    top:1350px;
+    
+}
+
+.codes5{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:1820px;
+    
+}
+
+.codes6{
+    position: absolute;
+  right: 20px;
+     width: 550px;
+ padding: 40px;
+    top:1820px;
+    
+}
+
+.codes7{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:2290px;
+    
+}
+
+.codes8{
+    position: absolute;
+  right: 20px;
+     width: 550px;
+ padding: 40px;
+    top:2290px;
+    
+}
+
+
+.radioposter{
+    position: absolute;
+  right: 20px;
+     width: 440px;
+ padding: 40px;
+    top:200px;
+    
+}
+
+.vlag {
+    position: absolute;
+  left: 20px;
+    top:200px;
+  width: 400px;
+ padding: 40px;
+    
+}
+
+.qsl1{
+    position: absolute;
+  right: 20px;
+     width: px;
+ padding: 40px;
+    top:880px;
+    
+}
+
+.qsl2{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:880px;
+    
+}
+
+.qsl3{
+    position: absolute;
+  left: 350px;
+     width: px;
+ padding: 40px;
+    top:880px;
+    
+}
+.qsl4{
+    position: absolute;
+  right: 425px;
+     width: px;
+ padding: 40px;
+    top:880px;
+    
+}
+
+.killing {
+  position: absolute;
+  right: 20px;
+     width: 400px;
+ padding: 40px;
+    top:200px;
+    
+}
+
+.mia {
+    position: absolute;
+  left: 20px;
+    top:200px;
+  width: 400px;
+ padding: 40px;
+    
+}
+
+.humanisten {
+  position: absolute;
+  right: 20px;
+     width: 400px;
+ padding: 40px;
+    top:880px;
+    
+    
+}
+
+.diner1{
+    position: absolute;
+  right: 8px;
+     width: px;
+ padding: 40px;
+    top:700px;
+    
+}
+
+.diner2{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:700px;
+    
+}
+
+.diner3{
+    position: absolute;
+  right: 20px;
+     width: 550px;
+ padding: 40px;
+    top:1350px;
+    
+}
+
+.diner4{
+    position: absolute;
+  left: 20px;
+     width: 400px;
+ padding: 40px;
+    top:1350px;
+    
+}
+
+
+
+.uitleg { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 650px;
+}
+    
+
+.uitleg2 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 500px;
+}
+   .uitleg3 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 1860px;
+} 
+
+ .uitleg4 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 950px;
+} 
+
+ .uitleg5 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 700px;
+} 
+
+ .uitleg6 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 1350px;
+} 
+
+ .uitleg7 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 2600px;
+}
+
+ .uitleg8 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 1150px;
+}
+
+.uitleg9 { margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 40px;
+}
+
+.space {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.space2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.space3 {
+    text-align: center;
+        margin-top: 100px;
+}
+.titel { 
+margin-top: 70px;
+}
+
+.dinervideo {
+    text-align: center;
+        margin-top: 50px;
+    
+}

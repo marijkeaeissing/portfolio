@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+  background color: #0000D6
+      z-index:0; 
+}
+
+
+/* unvisited link */
+a:link {
+    color: #FF009D;
+    font-family:'Courier Prime', monospace;
+    font-size: 60pt;
+   
+                
+}
+
+/* visited link */
+a:visited {
+  color: #FF009D;
+}
+
+p { 
+    padding-left: 40px;
+    Font-family:'Courier Prime', monospace;
+    font-size: 18pt;
+  line-height: 19pt;
+    color:#FF009D;
+        
+    
+}
+
+
+
+.werk a:link {
+    color: #FF009D;
+    font-family:'Courier Prime', monospace;
+    font-size: 18pt; 
+text-decoration: none;}
+
+a img { display:none; }
+a:hover img { display:block; }
